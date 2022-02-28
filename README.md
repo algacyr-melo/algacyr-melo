@@ -1,6 +1,6 @@
 <h1>Hi there! :smile:</h1>
 <p>
-  My name is Algacyr Melo. I love to code both for solve problems and learning something new!
+  My name is Algacyr Melo. I love to code both to solve problems and to learn something new!
 </p>
 
 <h2>Reach me</h2>
