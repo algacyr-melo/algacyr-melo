@@ -1,11 +1,12 @@
-## Hi there! It's me, Algacyr Melo :smile:
+<h1>Hi there! :smile:</h1>
+<p>
+  My name is Algacyr Melo. I love to code both for solve problems and learning something new!
+</p>
 
-  - I'm a student that loves: __information technologies__, __music__ and __games__.
-  - I'm currently learning how to develop __web applications__.
-  
-  - _If you need help with HTML, CSS and/or JS fundamentals, text me_.
-
-## How to reach me
-
-  - Instagram -> @algacyr.melo
-  - Email -> algacyr.junior@gmail.com
+<h2>Reach me</h2>
+<a href="https://www.linkedin.com/in/algacyr-melo-3522a7195/">
+  <img src="https://img.shields.io/static/v1?label=&message=linkedin&color=blue&logo=linkedin" />
+</a>
+<a href="https://twitter.com/ALgazord">
+  <img src="https://img.shields.io/static/v1?label=&message=twitter&color=white&logo=twitter" />
+</a>
