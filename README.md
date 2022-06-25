@@ -1,9 +1,9 @@
-<h1>Hi there! :smile:</h1>
+<h1>It's me, Algacyr Melo</h1>
 <p>
-  My name is Algacyr Melo. I love to code both to solve problems and to learn something new!
+  I am studying at 42Rio so I am learning a lot about Software Engineer and I am loving this experience.
 </p>
 
-<h2>Reach me</h2>
+<h2>Contact me</h2>
 <a href="https://www.linkedin.com/in/algacyr-melo-3522a7195/" target="_blank">
   <img src="https://img.shields.io/static/v1?label=&message=linkedin&color=blue&logo=linkedin" />
 </a>
