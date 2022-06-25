@@ -2,7 +2,7 @@
 <p>
   I am studying at 42Rio so I am learning a lot about Software Engineer and I am loving this experience.
 </p>
-![](https://github.com/algadev/profile.gif)
+![](https://github.com/algadev/algadev/blob/main/profile.gif)
 
 <h2>Contact me</h2>
 <a href="https://www.linkedin.com/in/algacyr-melo-3522a7195/" target="_blank">
