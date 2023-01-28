@@ -1,9 +1,17 @@
-<h1>Algacyr Melo</h1>
-<img src="https://github.com/algadev/algadev/blob/main/r%26m.jpeg" />
-<p>I am studying at 42Rio, learning a lot about Software Engineer and loving this experience.</p>
-<a href="https://www.linkedin.com/in/algacyr-melo-3522a7195/" target="_blank">
-  <img src="https://img.shields.io/static/v1?label=&message=linkedin&color=blue&logo=linkedin" />
-</a>
-<a href="https://twitter.com/ALgazord" target="_blank">
-  <img src="https://img.shields.io/static/v1?label=&message=twitter&color=white&logo=twitter" />
-</a>
+# Profile
+
+## About Me
+
+- I am Algacyr, a dreamer that gets excited about technology, games, music, sports and so on.
+- Studying Software Engineering at 42 | Rio, making amazing projects with C, Unix systems, Bash, VM's, C++ and things alike. 
+- Self-taught, I am going to finish 42 | Rio by february 2024.
+
+## Skills
+
+- Linux, C, Bash, Git.
+
+## Projects
+
+## Contact
+
+- algacyr.junior@gmail.com
