@@ -4,7 +4,7 @@
 
 - I am Algacyr, a dreamer that gets excited about technology, games, music, sports and so on.
 - Studying Software Engineering at 42 | Rio, making amazing projects with C, Unix systems, Bash, VM's, C++ and things alike. 
-- Self-taught, I am going to finish 42 | Rio by february 2024.
+- Self-taugth, I don't have any previous graduation or alike, I am going to finish 42 | Rio by february 2024.
 
 ## Skills
 
