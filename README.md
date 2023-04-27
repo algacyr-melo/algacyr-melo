@@ -8,9 +8,7 @@
 
 ## Skills
 
-- Linux, C, Bash, Git.
-
-## Projects
+- Linux, C, C++, Bash, Git, OOP, Neovim.
 
 ## Contact
 
