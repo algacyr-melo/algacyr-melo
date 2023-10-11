@@ -20,13 +20,13 @@ Here are some of the game development projects I've worked on:
 ### [Tennis Game](https://github.com/algacyr-melo/tennis-game)
 
 - Description: Early 1970's Arcade-Style
-- Technologies Used: HTML, Javascript
+- Technologies Used: HTML, JavaScript
 - Key Features: Ball Bouncing, Mouse input
 
 ### [Brick Breaker](https://github.com/algacyr-melo/brick-breaker)
 
 - Description: Late 1970's Arcade-Style
-- Technologies Used: HTML, Javascript
+- Technologies Used: HTML, JavaScript
 - Key Features: Colision, Tile Grid
 
 ## Skills
