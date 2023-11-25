@@ -12,18 +12,11 @@ skills.
 
   - Expected Graduation: 2024
 
-## Skills
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
 ## Featured Projects
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=algacyr-melo&repo=tennis-game&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/algacyr-melo/tennis-game)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=algacyr-melo&repo=tennis-game&bg_color=0f380f&border_color=306230&icon_color=FFF&title_color=FFF&text_color=FFF)](https://github.com/algacyr-melo/tennis-game)
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=algacyr-melo&repo=brick-breaker&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/algacyr-melo/brick-breaker)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=algacyr-melo&repo=brick-breaker&bg_color=0f380f&border_color=306230&icon_color=FFF&title_color=FFF&text_color=FFF)](https://github.com/algacyr-melo/brick-breaker)
 
 ## Contact
 
