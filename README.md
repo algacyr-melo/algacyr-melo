@@ -14,9 +14,9 @@ skills.
 
 ## Featured Projects
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=algacyr-melo&repo=tennis-game&bg_color=0f380f&border_color=306230&icon_color=FFF&title_color=FFF&text_color=FFF)](https://github.com/algacyr-melo/tennis-game)
-
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=algacyr-melo&repo=brick-breaker&bg_color=0f380f&border_color=306230&icon_color=FFF&title_color=FFF&text_color=FFF)](https://github.com/algacyr-melo/brick-breaker)
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=algacyr-melo&repo=tennis-game&bg_color=0f380f&border_color=306230&icon_color=FFF&title_color=FFF&text_color=FFF)](https://github.com/algacyr-melo/tennis-game)
 
 ## Contact
 
