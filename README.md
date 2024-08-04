@@ -1,7 +1,7 @@
-# Olá, sou o ALga 
+# Olá, eu sou o ALga!
 
-- Cadete no curso de Engenharia de Software da [42 Rio](https://42.rio/)
-- Estudante da turma 6 do programa ONE da Alura em parceria com a Oracle
+- Cadete de Engenharia de Software na [42 Rio](https://42.rio/)
+- Alumni ONE
 
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=algacyr-melo&layout=compact&langs_count=6&theme=dracula"/>
 
