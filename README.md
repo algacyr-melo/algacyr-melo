@@ -1,7 +1,8 @@
-# Olá, eu sou o ALga!
+# Olá, meu nome é Algacyr Junior!
 
 - Cadete de Engenharia de Software na [42 Rio](https://42.rio/)
 - Alumni ONE
+- Estudante de Análise e Desenvolvimento de Sistemas na Estácio
 
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=algacyr-melo&layout=compact&langs_count=6&theme=dracula"/>
 
