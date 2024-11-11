@@ -1,16 +1,21 @@
-# Olá, meu nome é Algacyr Junior!
+# Olá, sou Algacyr Melo
+Desenvolvedor em formação, com interesse em criar soluções simples e eficientes para desafios complexos.
 
-- Cadete de Engenharia de Software na [42 Rio](https://42.rio/)
-- Alumni ONE
-- Estudante de Análise e Desenvolvimento de Sistemas na Estácio
+## 🚀 Competências Técnicas
+- Linguagens: C/C++, Java, JavaScript, Python, SQL
+- Frameworks & Ferramentas: Spring Boot, Django, React, Git, Docker, Linux
+- Outros: APIs RESTful, Design de Software, Boas Práticas de Programação
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=algacyr-melo&layout=compact&langs_count=6&theme=dracula"/>
+## 🎓 Educação
+- 42 Rio – Engenharia de Software (2022 – 2025)
+- Universidade Estácio de Sá – Análise e Desenvolvimento de Sistemas (2024 – 2026)
 
+## 📫 Vamos Conectar!
 <div>
   <a href="https://www.linkedin.com/in/algacyr-melo/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
   </a>
-  <a href = "mailto:algacyroalga@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  <a href = "mailto:algacyroalga@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge">
   </a>
 </div>
