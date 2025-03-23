@@ -1,14 +1,16 @@
 # Olá, sou Algacyr Melo 👋
 
-**Back-End Developer** | **DevSecOps Apprentice**. Focado em construir soluções seguras e eficientes.
+**DevSecOps Apprentice** | **Back-End Foundations**
+
+`Transformando desafios em soluções escaláveis com a resiliência de uma capivara 🐾☁️`
 
 <pre>
-  🏫 42 School • Estágio DevSecOps
-  🛠️ AWS • Docker • Terraform • CI/CD • Observability
-  🔐 OWASP Top 10 • Cloud Security • AppSec
-  📈 Agile • IaC • Python
-  🐾 Capivara Lover • Music • Anime
-  🦥 "Debugging with capybara energy: calm, persistent, and always floating 🛟"
+  42 School • DevSecOps • IaC
+  AWS • Terraform • CI/CD • Observability
+  Python • Docker • Cloud Security
+  OWASP Top 10 • AppSec • Agile
+  Music • Anime • Capivara Zen
+  "Debugging with capybara energy: calm, persistent, and always floating"
 </pre>
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/algacyr-melo/)
