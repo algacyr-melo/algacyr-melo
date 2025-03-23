@@ -6,7 +6,7 @@
   🏫 42 School • Estágio DevSecOps
   🛠️ AWS • Docker • Terraform • CI/CD • Observability
   🔐 OWASP Top 10 • Cloud Security • AppSec
-  📈 Agile • IaC • Python Automation
+  📈 Agile • IaC • Python
   🐾 Capivara Lover • Music • Anime
   🦥 "Debugging with capybara energy: calm, persistent, and always floating 🛟"
 </pre>
