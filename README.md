@@ -1,6 +1,6 @@
 # Olá, sou Algacyr Melo 👋
 
-**Back-End Developer** em formação, focado em construir soluções seguras e eficientes.
+**Back-End Developer** | **DevSecOps Apprentice**. Focado em construir soluções seguras e eficientes.
 
 <pre>
   🏫 42 School • Estágio DevSecOps
