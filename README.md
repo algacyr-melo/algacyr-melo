@@ -1,5 +1,5 @@
 <picture>
- <img alt="Picture of a capybara in nature" src="./capivara.jpg">
+ <img alt="Picture of a capybara in nature" src="./capivara.jpg" loading="lazy" width="300">
 </picture>
 
 ## About me
