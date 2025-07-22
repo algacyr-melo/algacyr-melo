@@ -5,8 +5,7 @@
 ## About me
 
 <!-- TO DO: add more details about me later -->
-
-Hi, I'm Algacyr. Aspiring DevOps Engineer.
+Hi, I'm Algacyr. Future DevOps Engineer — automating workflows and breaking things (safely)
 
 <details open>
 <summary>My top languages</summary>
@@ -15,7 +14,7 @@ Hi, I'm Algacyr. Aspiring DevOps Engineer.
 |-----:|-----------|
 |     1| Python    |
 |     2| Bash      |
-|     3| Go        |
+|     3| C         |
 
 </details>
 
